@@ -1,5 +1,5 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 
-#include "HelloUnrealGameModeBase.h"
+#include "UnrealStringGameModeBase.h"
 

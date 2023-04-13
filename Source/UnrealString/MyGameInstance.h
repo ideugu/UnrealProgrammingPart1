@@ -10,10 +10,13 @@
  * 
  */
 UCLASS()
-class HELLOUNREAL_API UMyGameInstance : public UGameInstance
+class UNREALSTRING_API UMyGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
 public:
-
 	virtual void Init() override;
+
+private:
+
+	
 };
