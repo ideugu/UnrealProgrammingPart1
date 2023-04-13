@@ -5,20 +5,11 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "HelloUnreal",
+			"Name": "UnrealBuildSystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
+				"CoreUObject"
 			]
 		}
 	]
