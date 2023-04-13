@@ -3,17 +3,17 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Engine/GameInstance.h"
-#include "MyGameInstance.generated.h"
+#include "Person.h"
+#include "Staff.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class HELLOUNREAL_API UMyGameInstance : public UGameInstance
+class UNREALDELEGATE_API UStaff : public UPerson
 {
 	GENERATED_BODY()
+	
 public:
-
-	virtual void Init() override;
+	UStaff();
 };
