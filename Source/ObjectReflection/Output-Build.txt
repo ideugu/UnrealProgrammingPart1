@@ -1,0 +1,29 @@
+﻿Build started...
+1>------ Build started: Project: ObjectReflection, Configuration: Development_Editor x64 ------
+2>------ Skipped Build: Project: UE5, Configuration: BuiltWithUnrealBuildTool Win64 ------
+2>Project not selected to build for this solution configuration 
+1>Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" ObjectReflectionEditor Win64 Development -Project="E:\UE5Part1\ObjectReflection\ObjectReflection.uproject" -WaitMutex -FromMsBuild
+1>Log file: C:\Users\이득우\AppData\Local\UnrealBuildTool\Log.txt
+1>Invalidating makefile for ObjectReflectionEditor (working set of source files changed)
+1>Parsing headers for ObjectReflectionEditor
+1>  Running Internal UnrealHeaderTool E:\UE5Part1\ObjectReflection\ObjectReflection.uproject E:\UE5Part1\ObjectReflection\Intermediate\Build\Win64\ObjectReflectionEditor\Development\ObjectReflectionEditor.uhtmanifest -WarningsAsErrors -installed
+1>Total of 3 written
+1>Reflection code generated for ObjectReflectionEditor in 0.9105704 seconds
+1>Building ObjectReflectionEditor...
+1>Using Visual Studio 2022 14.33.31631 toolchain (E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (E:\Windows Kits\10).
+1>Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+1>  Executing up to 8 processes, one per physical core
+1>Building 7 actions with 7 processes...
+1>[1/7] Compile ObjectReflection.init.gen.cpp
+1>[2/7] Compile Student.gen.cpp
+1>[3/7] Compile Student.cpp
+1>[4/7] Compile Person.cpp
+1>[5/7] Link UnrealEditor-ObjectReflection.lib
+1>   Creating library E:\UE5Part1\ObjectReflection\Intermediate\Build\Win64\UnrealEditor\Development\ObjectReflection\UnrealEditor-ObjectReflection.lib and object E:\UE5Part1\ObjectReflection\Intermediate\Build\Win64\UnrealEditor\Development\ObjectReflection\UnrealEditor-ObjectReflection.exp
+1>[6/7] Link UnrealEditor-ObjectReflection.dll
+1>   Creating library E:\UE5Part1\ObjectReflection\Intermediate\Build\Win64\UnrealEditor\Development\ObjectReflection\UnrealEditor-ObjectReflection.suppressed.lib and object E:\UE5Part1\ObjectReflection\Intermediate\Build\Win64\UnrealEditor\Development\ObjectReflection\UnrealEditor-ObjectReflection.suppressed.exp
+1>[7/7] WriteMetadata ObjectReflectionEditor.target
+1>Total time in Parallel executor: 2.43 seconds
+1>Total execution time: 4.81 seconds
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 1 skipped ==========
+========== Build started at 12:24 AM and took 05.094 seconds ==========
