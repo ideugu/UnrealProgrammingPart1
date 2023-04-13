@@ -5,11 +5,11 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "HelloUnreal",
+			"Name": "UnrealObject",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"CoreUObject"
 			]
 		}
 	],
