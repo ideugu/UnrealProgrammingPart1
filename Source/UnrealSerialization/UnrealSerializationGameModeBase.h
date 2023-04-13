@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "HelloUnrealGameModeBase.generated.h"
+#include "UnrealSerializationGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class HELLOUNREAL_API AHelloUnrealGameModeBase : public AGameModeBase
+class UNREALSERIALIZATION_API AUnrealSerializationGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
