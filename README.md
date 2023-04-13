@@ -8,14 +8,14 @@
 | branch | 강좌 이름 |
 |:-------------|:-------------|
 | main | 헬로 언리얼! ( 1강 ) |
-| uestring | 언리얼 문자열의 이해 ( 3강 ) |
-| ueobject | 언리얼 오브젝트의 이해 ( 4강 ) |
-| uereflection | 언리얼 리플렉션 시스템 ( 5강, 6강 ) |
-| ueinterface | 언리얼 인터페이스 ( 7강 ) |
-| uecomposition | 언리얼 컴포지션 ( 8강 ) |
-| uedelegate | 언리얼 델리게이트 ( 9강 ) |
-| uecontainer | 언리얼 컨테이너 라이브러리 ( 10강, 11강 ) |
-| uememory | 언리얼 메모리 관리 ( 12강 ) |
-| ueserialization | 언리얼 직렬화와 패키지 ( 13강, 14강 ) |
-| uebuildsystem | 언리얼 빌드 시스템 ( 15강 ) |
+| 3_uestring | 언리얼 문자열의 이해 ( 3강 ) |
+| 4_ueobject | 언리얼 오브젝트의 이해 ( 4강 ) |
+| 6_uereflection | 언리얼 리플렉션 시스템 ( 5강, 6강 ) |
+| 7_ueinterface | 언리얼 인터페이스 ( 7강 ) |
+| 8_uecomposition | 언리얼 컴포지션 ( 8강 ) |
+| 9_uedelegate | 언리얼 델리게이트 ( 9강 ) |
+| 11_uecontainer | 언리얼 컨테이너 라이브러리 ( 10강, 11강 ) |
+| 12_uememory | 언리얼 메모리 관리 ( 12강 ) |
+| 14_ueserialization | 언리얼 직렬화와 패키지 ( 13강, 14강 ) |
+| 15_uebuildsystem | 언리얼 빌드 시스템 ( 15강 ) |
 
